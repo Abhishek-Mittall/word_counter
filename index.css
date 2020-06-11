@@ -1,0 +1,28 @@
+.body{
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg0iwyHvatsSVyf_jUtXSzqvwzJkd695gB5R_gthZwKB4FgT8x&usqp=CAU);
+ repeat: no-repeat;
+ background-size: cover;
+}
+.navbar
+{
+  padding-right:0px;
+  padding-left:0px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  display:block;
+  z-index: 1;
+}
+.navbar-brand{
+  font-size:30px;
+  color:black;
+  font-weight:bold;
+  font-family: cursive;
+
+}
+.count_words{
+  text-align:center;
+  font-size:32px;
+  padding:25px;
+  color:black;
+  font-family:cursive;
+}
